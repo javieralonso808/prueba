@@ -1,0 +1,7 @@
+Código: 769
+Nombre: cars
+Año: 2006
+Categoría: animada
+Director: yo
+Actores:
+
